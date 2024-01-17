@@ -9,3 +9,5 @@ chat screen code
 last seen code
 
 Attachments (Images, Audio and Video)
+
+Hiding the last seen
